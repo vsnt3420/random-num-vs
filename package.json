@@ -1,0 +1,27 @@
+{
+  "name": "testrandom-vsnt-test",
+  "version": "1.0.2",
+  "description": "\"# random-num-vs\"",
+  "main": "dist/index.js",
+  "types": "types/types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsnt3420/random-num-vs"
+  },
+  "bugs": {
+    "url": "https://github.com/vsnt3420/random-num-vs/issues"
+  },
+  "homepage": "https://github.com/vsnt3420/random-num-vs#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "8.0.1",
+    "release-it": "17.2.0",
+    "typescript": "5.4.5"
+  }
+}
