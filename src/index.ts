@@ -12,6 +12,8 @@ export const generateRandomNumber = (min: number, max: number): number => {
     }
   
     // Generate a random number within the specified range //
+    // Generate a random number within the specified range //
+    // Generate a random number within the specified range //
     const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
     return randomNumber;
   }
